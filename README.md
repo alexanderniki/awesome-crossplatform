@@ -1,5 +1,6 @@
 # Awesome crossplatform
-A curated list of awesome crossplatform applications for everyday use
+A curated list of awesome crossplatform applications for everyday use.
+
 
 ## Contents
 
@@ -8,6 +9,7 @@ A curated list of awesome crossplatform applications for everyday use
 - [Email clients](#email-clients)
 - [Design](#design)
 - [Media](#media)
+
 
 ## Note-taking
 
@@ -28,18 +30,31 @@ A curated list of awesome crossplatform applications for everyday use
     - Sources: [Github](https://github.com/logseq/logseq)
     - Website: [logseq.com](https://logseq.com/)
 
+
 ## Browser
 
---
+- Firefox
+- Chromium
+- Brave
+
 
 ## Email clients
 
---
+- Thunderbird
+    - Free and open-source email client software which also functions as a full personal information manager with a calendar and contactbook.
+    - Platforms: Mac, Linux, Windown, Android (former K-9 Mail app)
+    - Written in: Kotlin (Android), C/C++, JavaScript, Rust
+    - Sources: [hg.mozilla.org](https://hg.mozilla.org/comm-central/), [Github](https://github.com/thunderbird)
+    - Website: [thunderbird.net](https://www.thunderbird.net/)
+
 
 ## Design
 
---
+- GIMP
+- Inkscape
+- Penpot
+
 
 ## Media
 
---
+- VLC
