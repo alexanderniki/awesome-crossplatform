@@ -9,9 +9,12 @@ A curated list of awesome crossplatform applications for everyday use.
 - [Email clients](#email-clients)
 - [Design](#design)
 - [Media](#media)
+- Software dev
+    - [Database management](#database-management)
+    - [IDEs](#ides)
 
 
-## Note-taking
+## Note-taking apps
 
 > List of note-taking and knowledge management apps
 
@@ -31,7 +34,7 @@ A curated list of awesome crossplatform applications for everyday use.
     - Website: [logseq.com](https://logseq.com/)
 
 
-## Browser
+## Browsers
 
 - Firefox
 - Chromium
@@ -48,13 +51,26 @@ A curated list of awesome crossplatform applications for everyday use.
     - Website: [thunderbird.net](https://www.thunderbird.net/)
 
 
-## Design
+## Design apps
 
 - GIMP
 - Inkscape
 - Penpot
 
 
-## Media
+## Media apps
 
 - VLC
+
+
+## Software dev
+
+
+### Database management
+
+- DBeaver
+
+
+### IDEs
+
+- VS Codium
