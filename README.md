@@ -9,7 +9,7 @@ A curated list of awesome crossplatform applications for everyday use.
 - [Email clients](#email-clients)
 - [Design](#design)
 - [Media](#media)
-- Software dev
+- Developer tools
     - [Database management](#database-management)
     - [IDEs](#ides)
 - [Messengers](#messengers)
