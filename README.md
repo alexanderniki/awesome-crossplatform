@@ -12,6 +12,7 @@ A curated list of awesome crossplatform applications for everyday use.
 - Software dev
     - [Database management](#database-management)
     - [IDEs](#ides)
+- [Messengers](#messengers)
 
 
 ## Note-taking apps
@@ -74,3 +75,8 @@ A curated list of awesome crossplatform applications for everyday use.
 ### IDEs
 
 - VS Codium
+
+
+## Messengers
+
+- Jami
