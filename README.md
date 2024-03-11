@@ -47,7 +47,7 @@ A curated list of awesome crossplatform applications for everyday use.
 - Thunderbird
     - Free and open-source email client software which also functions as a full personal information manager with a calendar and contactbook.
     - Platforms: Mac, Linux, Windown, Android (former K-9 Mail app)
-    - Written in: Kotlin (Android), C/C++, JavaScript, Rust
+    - Written in: Kotlin (Android), C, C++, JavaScript, Rust
     - Sources: [hg.mozilla.org](https://hg.mozilla.org/comm-central/), [Github](https://github.com/thunderbird)
     - Website: [thunderbird.net](https://www.thunderbird.net/)
 
@@ -55,6 +55,12 @@ A curated list of awesome crossplatform applications for everyday use.
 ## Design apps
 
 - GIMP
+    - Free open source raster graphics editor.
+    - Platforms: Mac, Linux, Windows
+    - Written in: C, C++, Python; GTK
+    - Sources: [gitlab.gnome.org](https://gitlab.gnome.org/GNOME/gimp)
+    - Website: [gimp.org](https://www.gimp.org/)
+
 - Inkscape
 - Penpot
 
