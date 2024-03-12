@@ -8,6 +8,7 @@ Awesome crossplatform prefers apps that are:
 - Free/libre and Open source software
 - Offline-first
 - Use simple standart data storage formats
+- Privacy focused (no telemetry or other tracking)
 
 
 ## Contents
