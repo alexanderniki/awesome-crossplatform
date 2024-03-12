@@ -1,5 +1,13 @@
 # Awesome crossplatform
-A curated list of awesome crossplatform applications for everyday use.
+A curated list of awesome crossplatform applications for everyday use. Take your apps and work with you no matter what OS you are using today.
+
+## Criteria
+
+Awesome crossplatform prefers apps that are:
+
+- Free/libre and Open source software
+- Offline-first
+- Use simple standart data storage formats
 
 
 ## Contents
