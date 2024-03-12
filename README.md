@@ -86,3 +86,8 @@ A curated list of awesome crossplatform applications for everyday use.
 ## Messengers
 
 - Jami
+    - Distributed DHT-based instant messenger with audio-video calls and screen sharing support.
+    - Platforms: Mac, Linux, Windows, iOS, Android, Android TV
+    - Written in: C++/Qt, Swift (iOS), Kotlin (Android)
+    - Sources: [git.jami.net](https://git.jami.net/savoirfairelinux)
+    - Website: [jami.net](https://jami.net/)
