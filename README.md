@@ -102,8 +102,15 @@ Awesome crossplatform prefers apps that are:
     - Web: [jami.net](https://jami.net/)
  
 - FluffyChat
-    - Matrix chat.
-    - Platforms:
+    - An instant messenger for [Matrix] protocol.
+    - Platforms: Mac, Linux, Android, iOS
     - Written in: Dart/Flutter
+    - Src: [Github](https://github.com/krille-chan/fluffychat)
+    - Web: [fluffychat.im](https://fluffychat.im/)
+ 
+- Element
+    - Official [Matrix] client
+    - Platforms:
+    - Written in:
     - Src:
-    - Web: 
+    - Web:
