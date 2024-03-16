@@ -32,16 +32,16 @@ Awesome crossplatform prefers apps that are:
     -  Secure note taking and to-do app with synchronisation capabilities.
     -  Platforms: Mac, Linux, Windows, iOS, Android
     -  Written in: TypeScript, JavaScript (Electron)
-    -  Sources: [Github](https://github.com/laurent22/joplin/)
-    -  Website: [joplinapp.org](https://joplinapp.org/)
+    -  Src: [Github](https://github.com/laurent22/joplin/)
+    -  Web: [joplinapp.org](https://joplinapp.org/)
     
 
 - Logseq
     - A privacy-first, open-source platform for knowledge management and collaboration.
     - Platforms: Mac, Linux, Windows, iOS, Android
     - Written in: Closure, TypeScript
-    - Sources: [Github](https://github.com/logseq/logseq)
-    - Website: [logseq.com](https://logseq.com/)
+    - Src: [Github](https://github.com/logseq/logseq)
+    - Web: [logseq.com](https://logseq.com/)
 
 
 ## Browsers
@@ -57,8 +57,8 @@ Awesome crossplatform prefers apps that are:
     - Free and open-source email client software which also functions as a full personal information manager with a calendar and contactbook.
     - Platforms: Mac, Linux, Windown, Android (former K-9 Mail app)
     - Written in: Kotlin (Android), C, C++, JavaScript, Rust
-    - Sources: [hg.mozilla.org](https://hg.mozilla.org/comm-central/), [Github](https://github.com/thunderbird)
-    - Website: [thunderbird.net](https://www.thunderbird.net/)
+    - Src: [hg.mozilla.org](https://hg.mozilla.org/comm-central/), [Github](https://github.com/thunderbird)
+    - Web: [thunderbird.net](https://www.thunderbird.net/)
 
 
 ## Design apps
@@ -67,8 +67,8 @@ Awesome crossplatform prefers apps that are:
     - Free open source raster graphics editor.
     - Platforms: Mac, Linux, Windows
     - Written in: C, C++, Python; GTK
-    - Sources: [gitlab.gnome.org](https://gitlab.gnome.org/GNOME/gimp)
-    - Website: [gimp.org](https://www.gimp.org/)
+    - Src: [gitlab.gnome.org](https://gitlab.gnome.org/GNOME/gimp)
+    - Web: [gimp.org](https://www.gimp.org/)
 
 - Inkscape
 - Penpot
@@ -98,5 +98,12 @@ Awesome crossplatform prefers apps that are:
     - Distributed DHT-based instant messenger with audio-video calls and screen sharing support.
     - Platforms: Mac, Linux, Windows, iOS, Android, Android TV
     - Written in: C++/Qt, Swift (iOS), Kotlin (Android)
-    - Sources: [git.jami.net](https://git.jami.net/savoirfairelinux)
-    - Website: [jami.net](https://jami.net/)
+    - Src: [git.jami.net](https://git.jami.net/savoirfairelinux)
+    - Web: [jami.net](https://jami.net/)
+ 
+- FluffyChat
+    - Matrix chat.
+    - Platforms:
+    - Written in: Dart/Flutter
+    - Src:
+    - Web: 
