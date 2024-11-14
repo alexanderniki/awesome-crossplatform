@@ -5,7 +5,7 @@ A curated list of awesome crossplatform applications for everyday use. Take your
 
 Awesome crossplatform prefers apps that are:
 
-- Free/libre and Open source software
+- Free/Libre and Open Source Software
 - Offline-first
 - Use simple standart data storage formats
 - Privacy focused (no telemetry or other tracking)
